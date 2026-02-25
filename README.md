@@ -24,18 +24,17 @@ https://github.com/unclekesh101/ECS-4-part-deployment
 
 Production-style AWS architecture demonstrating:
 
-✅ Independent microservice deployments
+* Independent microservice deployments
 
-✅ Terraform-provisioned infrastructure
+* Terraform-provisioned infrastructure
 
-✅ GitHub Actions OIDC authentication (no AWS keys)
+* GitHub Actions OIDC authentication (no AWS keys)
 
-✅ Zero-downtime ECS rolling deployments
+* Zero-downtime ECS rolling deployments
 
-✅ ALB path-based routing
+* ALB path-based routing
 
-✅ Failure isolation design
-
+* Failure isolation design
 
 ## Cloud-Native CI/CD on AWS EKS
 
