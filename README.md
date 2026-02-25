@@ -38,6 +38,8 @@ Production-style AWS architecture demonstrating:
 
 ## Cloud-Native CI/CD on AWS EKS
 
+https://github.com/unclekesh101/cloud-native-eks-project
+
 Production-ready EKS with Terraform, IRSA, ALB, and CI/CD
 
 ## Kubernetes, Networking and Security
@@ -63,17 +65,9 @@ Production-ready EKS with Terraform, IRSA, ALB, and CI/CD
 
 Cloud
 
-AWS ECS
-
-EC2
+AWS ECS EKS EC2 DynamoDB IAM CloudWatch
 
 ALB
-
-DynamoDB
-
-IAM
-
-CloudWatch
 
 DevOps
 
