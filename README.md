@@ -6,7 +6,7 @@ Designing resilient cloud platforms where deployments are automated, infrastruct
 
 I build AWS infrastructure focused on:
 
-Reliability
+Reliability and Scale 
 
 Automation
 
@@ -14,7 +14,7 @@ Security
 
 Independent service deployment
 
-My work centers on designing systems that behave like modern production environments — minimizing downtime and deployment risk through Infrastructure as Code and secure CI/CD practices.
+My work centers on designing systems that behave like modern production environments — minimizing downtime and deployment risk through Infrastructure as Code, DevSecOps secure CICD practices and monitoring.
 
 ## Featured Project — Fault-Isolated ECS Platform
 
