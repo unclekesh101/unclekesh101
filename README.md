@@ -6,11 +6,13 @@ Designing resilient cloud platforms where deployments are automated, infrastruct
 
 I build AWS infrastructure focused on:
 
-Reliability and Scale 
+Security 
+
+Reliability and Scale
+
+Cost effiency and Optimization
 
 Automation
-
-Security
 
 Independent service deployment
 
@@ -69,6 +71,8 @@ Cloud
 
 AWS ECS EKS EC2 DynamoDB IAM CloudWatch
 
+Kubernetes 
+
 ALB
 
 DevOps
@@ -81,7 +85,7 @@ GitHub Actions
 
 OIDC Federation
 
-CI/CD Automation
+DevSecOps CI/CD Automation
 
 Platform
 
@@ -97,7 +101,7 @@ Observability
 
 Infrastructure as Code
 
-Secure CI/CD pipelines
+DevSecOps CI/CD pipelines
 
 Failure-resilient architectures
 
