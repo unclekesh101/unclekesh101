@@ -10,7 +10,7 @@ Security
 
 Reliability and Scale
 
-Cost effiency and Optimization
+Cost efficiency and Optimization
 
 Automation
 
